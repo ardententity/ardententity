@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi.</h1>
-<h4 align="center">Meet the rebirth of the arrogant, uncanny entity.</h4>
+<h4 align="center">Meet the rebirth of the arrogant, uncanny maniac.</h4>
 
 - 🎯 **Works**:
   - *Codename: Prosperous*
