@@ -4,7 +4,7 @@ import * as colors from 'https://deno.land/std@0.113.0/fmt/colors.ts';
  * The Logger script. Made for Deno specifically.
  */
 export default class Logger {
-  protected static fo = (x: string, fs: string) => colors.gray(`[${new Date().toISOString()}]`) + x + colors.gray(' > ') + fs;
+  protected static fo = (x: string, fs: string) => colors.gray(`[${new Date().toISOString()}] `) + x + colors.gray(' > ') + fs;
 
   /**
    * Output the string specified into console.
